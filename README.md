@@ -12,7 +12,7 @@ This repository contains an implementation of a machine learning-based system fo
 
 ## Introduction
 
-Crop diseases affect plant growth and yield, leading to significant losses. Early detection and diagnosis are crucial to mitigate the effects. This project leverages deep learning to automate the process of plant disease detection from images.
+Crop diseases affect plant growth and yield, leading to significant losses. Early detection and diagnosis are crucial to mitigate the effects. This project leverages deep learning to automate the identification and diagnosis of plant diseases based on image data.
 
 ## Features
 
@@ -54,6 +54,10 @@ The repository includes the following important files:
    ```bash
    python plant_disease.py --image_path <path_to_image>
    ```
+
+## Dataset
+
+The dataset used in this project can be found [here](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset/data).
 
 ## Acknowledgments
 
